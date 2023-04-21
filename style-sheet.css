@@ -1,0 +1,15 @@
+body {
+    margin: 0%;
+    padding: 0%;
+}
+
+.sky {
+    height: 100vh;
+    background: linear-gradient(#081033, #351f55);
+}
+
+#myCanvas {
+    border: 1px solid black;
+    position: absolute;
+    z-index: 2;
+}
